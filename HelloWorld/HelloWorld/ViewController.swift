@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func buttonPressed(sender: AnyObject) {
-        print("Hello, world!")
+        print("Hello, Fahim!")
     }
 
 }
